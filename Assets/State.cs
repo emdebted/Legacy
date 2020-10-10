@@ -6,4 +6,9 @@ using UnityEngine;
 public class State : ScriptableObject //Instead of Monobehavior, Scriptable Objects must derive from ScriptableObject
 {
     [TextArea(20, 24)] [SerializeField] string storyText;
+
+    public string GetStateStory()
+    {
+        return storyText;
+    }
 }

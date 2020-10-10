@@ -7,11 +7,14 @@ public class AdventureGame : MonoBehaviour
 {
 
     [SerializeField] Text textComponent; // SerializeField allows us to edit the field within the Unity inspector
+    [SerializeField] State startingState;
+    State state;
 
     // Start is called before the first frame update
     void Start()
     {
-        textComponent.text = "THIS IS A TEST";
+        state = startingState;
+        textComponent.text = state.GetStateStory();
     }
 
     // Update is called once per frame
