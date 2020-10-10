@@ -34,3 +34,6 @@ MonoBehaviour:
     room, you make your way over to the table and attempt to open it, and the moment
     you lay hands on it you are met with a voice that seems to emanate from within
     your own skull. "Who are you?"
+  nextStates:
+  - {fileID: 11400000, guid: 4d25ca324974a654787e91b227efd6b5, type: 2}
+  - {fileID: 11400000, guid: 0b4ddd4672b74b343899884afb7307d6, type: 2}
