@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe325e4b84b4e37439e656ac45753476, type: 3}
+  m_Name: A1 Start
+  m_EditorClassIdentifier: 
+  storyText: 'You feel as if you are waiting between worlds, a fog surrounding your
+    thoughts. Time passes, you think, though it feels off, as if your existence has
+    slowed to a miasmatic crawl, your consciousness captive within a thick molasses.
+    After a millennia, the void you''ve been pushing against is replaced by blurs
+    of color, clarity drawing ever closer as your eyes open and attempt to make sense
+    of the external world. Objects begin to come into focus; a broken stool, damp
+    stonework, a small bookcase. Throbbing pain at the back of your head is also
+    brought into focus, forcing you to wince with just enough time to realize what''s
+    coming before you double over from the dingy bedding you''ve been resting on
+    and vomit onto the floor. After the coughs and sputters subside, you take a deep
+    breath and sit up a little straighter, giving the room a better look over. The
+    only light is coming from a candle burning low on the table opposite you, resting
+    beside a small strongbox of some kind. The bookcase is totally empty, and sits
+    pushed against the table. The walls are fairly solid stone, with a slow but steady
+    drip of water falling from the stone ceiling onto the wooden floorboards. To
+    your left, however, is the most interesting sight of the room. The entire wall
+    is missing, replaced with the wall of a cage, a small barred door to one side,
+    through which the sound of distant running water can be heard. Beyond the bars
+    you can see precious little, an ephemeral foggy darkness seems to surround your
+    room, the view only allowing you to make out a few feet of ground beyond the
+    doorway. You stand with some effort, and just as you suspected, the door is locked.
+    Where are you? Your head hurts immensely and you still feel disconnected from
+    the world. The strongbox being the only notable item in the room, you make your
+    way over to the table and attempt to open it, and the moment you lay hands on
+    it you are met with a voice that seems to emanate from within your own skull.
+    "Who are you?"
+
+
+    1. W-what? Where am I?'
+  nextStates:
+  - {fileID: 11400000, guid: 43fa76756f9a0884c90404b811e07c34, type: 2}

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d9d3f6155dc4bb949ad9ea0d97b994fe
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - Outline-Start-0
+  - Outline-Start-1
+  - Outline-Start.Where-2
+  - Outline-Start.Where-3
+  - Outline-Start.Escape-4
+  - Outline-Start.Escape-5
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []

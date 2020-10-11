@@ -1,0 +1,66 @@
+title: Start
+tags: 
+colorID: 0
+position: 178,196
+---
+You feel as if you are waiting between worlds, a fog surrounding your thoughts. Time passes, you think, though it feels off, as if your existence has slowed to a miasmatic crawl, your consciousness captive within a thick molasses. After a millennia, the void you've been pushing against is replaced by blurs of color, clarity drawing ever closer as your eyes open and attempt to make sense of the external world. Objects begin to come into focus; a broken stool, damp stonework, a small bookcase. Throbbing pain at the back of your head is also brought into focus, forcing you to wince with just enough time to realize what's coming before you double over from the dingy bedding you've been resting on and vomit onto the floor. After the coughs and sputters subside, you take a deep breath and sit up a little straighter, giving the room a better look over. The only light is coming from a candle burning low on the table opposite you, resting beside a small strongbox of some kind. The bookcase is totally empty, and sits pushed against the table. The walls are fairly solid stone, with a slow but steady drip of water falling from the stone ceiling onto the wooden floorboards. To your left, however, is the most interesting sight of the room. The entire wall is missing, replaced with the wall of a cage, a small barred door to one side, through which the sound of distant running water can be heard. Beyond the bars you can see precious little, an ephemeral foggy darkness seems to surround your room, the view only allowing you to make out a few feet of ground beyond the doorway. You stand with some effort, and just as you suspected, the door is locked. Where are you? Your head hurts immensely and you still feel disconnected from the world. The strongbox being the only notable item in the room, you make your way over to the table and attempt to open it, and the moment you lay hands on it you are met with a voice that seems to emanate from within your own skull. "Who are you?"
+
+[[W-what? Where am I?|Start.Where]]
+===
+title: Start.Where
+tags: 
+colorID: 0
+position: 467,196
+---
+"Where? You are, in this moment, in the unique position to determine your own fate. You should not squander what little time you have on senseless questions. Now, think hard, search within yourself. Who are you?"
+
+[[1. I'm... a traveling mercenary.|Start.Merc]]
+[[2. I remember now, I'm a pilgrim journeying to a faraway land.|Start.Holy]]
+[[3. I am a noble in exile, assembling my army to return a conquerer.|Start.Noble]]
+[[4. I have no idea what you're talking about, I just want to get out of here.|Start.Escape]]
+===
+title: Start.Escape
+tags: 
+colorID: 0
+position: 713,516
+---
+"...So be it," the voice says flatly, before fading from your mind. The lock on the lockbox falls open, and you lift the lid to reveal a small key. Certainly it can't be that simple, can it? You try the key on the cell door and the lock turns, the door swinging open with a groan. You step out from the room onto the ground beyond, or ledge, as you now notice there is but a few feet before the ground ends and gives way to empty void. To your left the narrow walkway turns gently clockwise and descends, to your right the opposite, a slight upward slope to the counter-clockwise direction. You also notice that your cell has identical neighbor cells lining the wall, all along the path.
+
+[[1. Descend|Escape.Descend]]
+[[2. Ascend|Escape.Ascend]]
+===
+title: Start.Merc
+tags: 
+colorID: 0
+position: 716,-152
+---
+Empty Text
+===
+title: Start.Holy
+tags: 
+colorID: 0
+position: 718,70
+---
+Empty Text
+===
+title: Start.Noble
+tags: 
+colorID: 0
+position: 715,294
+---
+Empty Text
+===
+title: Escape.Descend
+tags: 
+colorID: 0
+position: 491,766
+---
+Empty Text
+===
+title: Escape.Ascend
+tags: 
+colorID: 0
+position: 915,764
+---
+Empty Text
+===

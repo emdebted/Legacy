@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe325e4b84b4e37439e656ac45753476, type: 3}
+  m_Name: A2 Where
+  m_EditorClassIdentifier: 
+  storyText: '"Where? You are, in this moment, in the unique position to determine
+    your own fate. You should not squander what little time you have on senseless
+    questions. Now, think hard, search within yourself. Who are you?"
+
+
+    1. I''m...
+    a travelling mercenary.
+
+    2. I remember now, I''m a pilgrim journeying to
+    a faraway land.
+
+    3. I am a noble in exile, assembling my army to return a
+    conquerer.
+
+    4. I have no idea what you''re talking about, I just want to
+    get out of here.'
+  nextStates:
+  - {fileID: 11400000, guid: 440004fde81b9c84ebeda0594ce38b74, type: 2}
+  - {fileID: 11400000, guid: 0261de121db1acd46a02ec9c8baa6f83, type: 2}
+  - {fileID: 11400000, guid: 14c6352740cb22b47ba53bff72dd57de, type: 2}
+  - {fileID: 11400000, guid: c73f0dc00ce05804f8284b935cf4cc22, type: 2}

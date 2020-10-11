@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe325e4b84b4e37439e656ac45753476, type: 3}
+  m_Name: A6 Escape
+  m_EditorClassIdentifier: 
+  storyText: '"...So be it," the voice says flatly, before fading from your mind.
+    The lock on the lockbox falls open, and you lift the lid to reveal a small key.
+    Certainly it can''t be that simple, can it? You try the key on the cell door
+    and the lock turns, the door swinging open with a groan. You step out from the
+    room onto the ground beyond, or ledge, as you now notice there is but a few feet
+    before the ground ends and gives way to empty void. To your left the narrow walkway
+    turns gently clockwise and descends, to your right the opposite, a slight upward
+    slope to the counter-clockwise direction. You also notice that your cell has
+    identical neighbor cells lining the wall, all along the path.
+
+
+    1. Descend
+
+    2.
+    Ascend'
+  nextStates:
+  - {fileID: 11400000, guid: a862d9db4e1d02946a205f88006c4222, type: 2}
+  - {fileID: 11400000, guid: 9cce0dfa24db4264dbe15c876e2ca72a, type: 2}

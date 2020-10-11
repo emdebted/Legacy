@@ -454,7 +454,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: The Best Game
+  m_Text: Waiting Between Worlds
 --- !u!222 &857858223
 CanvasRenderer:
   m_ObjectHideFlags: 0
